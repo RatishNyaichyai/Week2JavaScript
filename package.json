@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "is-number": "^7.0.0",
+    "to-capital-case": "^1.0.0",
+    "to-space-case": "^1.0.0"
+  }
+}
